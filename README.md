@@ -6,5 +6,6 @@ operators have been shown using examples.
 
 # References:
 
-(1) https://docs.python.org/2/library/re.html#regular-expression-syntax
+(1) https://docs.python.org/2/library/re.html#regular-expression-syntax 
+
 (2) https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
