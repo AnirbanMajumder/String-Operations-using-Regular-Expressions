@@ -5,5 +5,7 @@ and the main methods used are as follows - (1) match (2) search (3) findall (4) 
 operators have been shown using examples.
 
 Refereneces: 
+
 (1) https://docs.python.org/2/library/re.html#regular-expression-syntax
+
 (2) https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
